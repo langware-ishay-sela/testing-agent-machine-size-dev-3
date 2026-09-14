@@ -14,7 +14,7 @@ enabled: true
 intro: ''
 auto_launch: false
 auto_launch_prompt: ''
-version: 4
+version: 5
 ---
 
 mail assistant
