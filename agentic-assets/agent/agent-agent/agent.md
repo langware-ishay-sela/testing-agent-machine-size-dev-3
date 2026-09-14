@@ -1,7 +1,9 @@
 ---
 id: 7fae4a33-c445-464e-a34d-33c8195e58c2
 name: agent-agent
+title: assistant
 description: ''
+machine_size: md
 skills: []
 mcp_servers: []
 subagents: []
@@ -12,8 +14,6 @@ enabled: true
 intro: ''
 auto_launch: false
 auto_launch_prompt: ''
-title: assistant
-machine_size: md
 ---
 
 mail assistant
